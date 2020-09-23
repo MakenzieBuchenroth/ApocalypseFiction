@@ -19,7 +19,7 @@
 
 /* Hide the images by default */
 .mySlides {
-  display: none;
+  display: all;
 }
 
 /* Next & previous buttons */
